@@ -14,7 +14,7 @@ O **EduLife Hub** é uma plataforma web criada por e para estudantes, projetada 
 - **📝 Diário de Bordo de IA:** Uma seção para registrar os aprendizados práticos, reflexões e comandos (prompts) utilizados nas aulas de Inteligência Artificial.
 
 ## Tecnologias utilizadas
-- **HTML5:** Estruturação das páginas e seções da plataforma.
+- **HTML5:** Estruturação das páginas e sessões da plataforma.
 - **CSS3:** Estilização moderna, layouts organizados e design totalmente responsivo (para funcionar no celular e no computador).
 - **JavaScript:** Criação das regras de negócio, interatividade dos quizzes, manipulação do checklist e funcionamento dos formulários.
 - **localStorage:** Armazenamento local no navegador para salvar os avisos, hábitos e tarefas sem sumir ao atualizar a página.
