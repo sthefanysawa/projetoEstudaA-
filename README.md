@@ -1,10 +1,3 @@
-Essa ideia de juntar esses temas ficou sensacional! Eles realmente se encaixam perfeitamente: cuidar da saúde e da rotina ajuda a ir bem nas provas, o painel de avisos deixa todo mundo na mesma página, e o diário de IA com os quizzes fecha o combo perfeito para o 1º ano do Ensino Médio Técnico.
-
-Aqui está o modelo do seu **README.md** pronto para o GitHub. Deixei alguns campos com marcações entre colchetes `[assim]` para você e sua equipe preencherem com os detalhes finais do projeto de vocês.
-
----
-
-```markdown
 # 🚀 EduLife Hub: Gestão de Estudos e Bem-Estar
 
 ## Problema
