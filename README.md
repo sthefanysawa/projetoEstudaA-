@@ -19,7 +19,7 @@ O **Estuda aí** é uma plataforma web criada por e para estudantes, projetada p
 - **JavaScript:** Criação das regras de negócio, interatividade dos quizzes, manipulação do checklist e funcionamento dos formulários.
 - **localStorage:** Armazenamento local no navegador para salvar os avisos, hábitos e tarefas sem sumir ao atualizar a página.
 - **GitHub:** Versionamento do código e organização do trabalho em equipe.
-- **IA utilizada:** ChatGPT, Gemini, Lovable - Utilizada para auxiliar na geração de ideias de layout, tirar dúvidas sobre a lógica do localStorage em JavaScript e ajudar na revisão ortográfica dos textos e também para o protótipo e parte visual.
+- **IA utilizada:** ChatGPT, Gemini, lovable - Utilizada para auxiliar na geração de ideias de layout, tirar dúvidas sobre a lógica do localStorage em JavaScript e ajudar na revisão ortográfica dos textos, para o protótipo, e criação do site.
 
 ## Como acessar
 Você pode acessar e testar a nossa plataforma da seguinte maneira: 
@@ -27,7 +27,6 @@ Você pode acessar e testar a nossa plataforma da seguinte maneira:
 1. **Execução Local:**
    - Faça o clone deste repositório: `https://github.com/sthefanysawa/projetoEstudaA-`
    - Abra a pasta do projeto.
-   - Dê um duplo clique no arquivo `index.html` para abrir diretamente no seu navegador.
 
 ## Aprendizados
 Durante o desenvolvimento deste Projeto Integrador, nossa equipe aprendeu a importância do planejamento e da divisão clara de tarefas usando metodologias ágeis. No aspecto técnico, dominamos o uso do `localStorage` para salvar dados no navegador, compreendemos como criar layouts responsivos com CSS e aprendemos a usar ferramentas de Inteligência Artificial de forma ética e responsável, servindo como um copiloto para resolver erros de código e acelerar nossa evolução, também aprendemos a como usar a IA para criar uma resolução de problema de forma funcional e tecnológica.
