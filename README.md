@@ -25,7 +25,7 @@ O **Estuda aí** é uma plataforma web criada por e para estudantes, projetada p
 Você pode acessar e testar a nossa plataforma da seguinte maneira: 
 
 1. **Execução Local:**
-   - Faça o clone deste repositório: `git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git`
+   - Faça o clone deste repositório: `sthefanysawa/projetoEstudaA-`
    - Abra a pasta do projeto.
    - Dê um duplo clique no arquivo `index.html` para abrir diretamente no seu navegador.
 
