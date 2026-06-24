@@ -1,4 +1,4 @@
-# 🚀 Estuda aí: Gestão de Estudos e Bem-Estar
+# 🚀 Estuda aí: Gestão de Estudos
 
 ## Problema
 Os estudantes do Ensino Médio Técnico enfrentam uma rotina extremamente puxada e cansativa. É muito comum se perder nos prazos de provas e trabalhos, esquecer os avisos importantes da escola, descuidar da saúde (como beber água e dormir bem) e ter dificuldades para fixar os conteúdos de novas tecnologias, como a Inteligência Artificial. A falta de uma ferramenta centralizada faz com que os alunos fiquem sobrecarregados e desorganizados.
@@ -19,13 +19,13 @@ O **Estuda aí** é uma plataforma web criada por e para estudantes, projetada p
 - **JavaScript:** Criação das regras de negócio, interatividade dos quizzes, manipulação do checklist e funcionamento dos formulários.
 - **localStorage:** Armazenamento local no navegador para salvar os avisos, hábitos e tarefas sem sumir ao atualizar a página.
 - **GitHub:** Versionamento do código e organização do trabalho em equipe.
-- **IA utilizada:** [Exemplo: ChatGPT / Gemini] - Utilizada para auxiliar na geração de ideias de layout, tirar dúvidas sobre a lógica do localStorage em JavaScript e ajudar na revisão ortográfica dos textos e também para o protótipo e parte visual.
+- **IA utilizada:** ChatGPT, Gemini, Lovable - Utilizada para auxiliar na geração de ideias de layout, tirar dúvidas sobre a lógica do localStorage em JavaScript e ajudar na revisão ortográfica dos textos e também para o protótipo e parte visual.
 
 ## Como acessar
 Você pode acessar e testar a nossa plataforma da seguinte maneira: 
 
 1. **Execução Local:**
-   - Faça o clone deste repositório: `sthefanysawa/projetoEstudaA-`
+   - Faça o clone deste repositório: `https://github.com/sthefanysawa/projetoEstudaA-`
    - Abra a pasta do projeto.
    - Dê um duplo clique no arquivo `index.html` para abrir diretamente no seu navegador.
 
